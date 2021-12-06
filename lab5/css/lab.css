@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(53, 72, 99);
+  font-size: 175%;
+  background-color: rgb(173, 183, 199);
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+    background-color: rgb(173, 183, 199);
+}
+h2{
+    color: rgb(53, 72, 99);
+}
+script{
+    font-size: 175%;
+}

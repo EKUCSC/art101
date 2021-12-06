@@ -1,0 +1,13 @@
+.problems {
+  color: red;
+}
+.challenges {
+  color: green;
+}
+.results {
+  color: red;
+}
+
+div{
+  text-align: center;
+}
